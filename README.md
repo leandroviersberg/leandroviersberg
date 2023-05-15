@@ -1,5 +1,7 @@
 ### Olá, sou o Leandro! Sejam bem vindo ao meu GIT!!! 👋
 
+<img width="64" height="64" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-qa-web-development-flaticons-lineal-color-flat-icons.png" alt="external-qa-web-development-flaticons-lineal-color-flat-icons"/>
+
 <a href = "mailto:leandroviersberg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leandro-viersberg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   

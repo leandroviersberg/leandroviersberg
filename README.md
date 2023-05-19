@@ -10,7 +10,7 @@
 - Sou estudante de Analise e Desenvolvimento de Sistemas e gosto de estar sempre refinando meus conhecimentos em tecnologia.
 - Atuamente trabalho como QA, mas nas horas vagas gosto de aprender conceitos da linguagem de programação e tenho como objetivo
 tornar um desenvolvedor Java!!!
-<div>
+</div>
   
  <div> 
 <img width="50" height="50" src="https://img.icons8.com/color/50/android-studio--v3.png" alt="android-studio--v3"/>
@@ -36,18 +36,19 @@ tornar um desenvolvedor Java!!!
 <img width="50" height="50" src="https://img.icons8.com/officel/50/java-eclipse.png" alt="java-eclipse"/>
 <img width="50" height="50" src="https://img.icons8.com/arcade/50/javascript.png" alt="javascript"/>
 <img width="50" height="50" src="https://img.icons8.com/arcade/50/html-5.png" alt="html-5"/>
+</div>  
    
-   
-   
-   
-   
+  
+  
+ <div>  
+  
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/Platane/Platane/actions/workflows/main.yml)
 [![GitHub release](https://img.shields.io/github/release/platane/snk.svg?style=flat-square)](https://github.com/platane/snk/releases/latest)
 [![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
 ![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
 ![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
 
-
+ </div> 
 
 <picture>
   <source

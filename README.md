@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/leandro-viersberg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 - :office_worker: [SIS Consultoria](https://www.sisconsultoria.com.br/)
-- Sou formado de Analise e Desenvolvimento de Sistemas e gosto de estar sempre refinando meus conhecimentos em tecnologia.
+- Sou formado em Analise e Desenvolvimento de Sistemas e gosto de estar sempre refinando meus conhecimentos em tecnologia.
 - Atuamente trabalho como QA, mas nas horas vagas gosto de aprender conceitos da linguagem de programação e tenho como objetivo
 tornar um desenvolvedor Java!!!
 </div>

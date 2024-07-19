@@ -8,8 +8,8 @@
   
 - :office_worker: [GFT technologies](https://www.gft.com/br/pt)
 - Sou formado em Analise e Desenvolvimento de Sistemas e gosto de estar sempre refinando meus conhecimentos em tecnologia.
-- Atuamente trabalho como QA, mas nas horas vagas gosto de aprender conceitos da linguagem de programação e tenho como objetivo
-tornar um desenvolvedor Java!!!
+- Atuamente trabalho como QA Manual e automação, mas nas horas vagas gosto de aprender conceitos da linguagem de programação e tenho como objetivo, me tornar um desenvolvedor!! 
+
 </div>
   
  <div> 

@@ -8,7 +8,7 @@
   
 - :office_worker: [Desempregado](url)
 - Sou formado em Analise e Desenvolvimento de Sistemas e gosto de estar sempre refinando meus conhecimentos em tecnologia.
-- Atuamente trabalho como QA Manual e automação, mas nas horas vagas gosto de aprender conceitos da linguagem de programação e tenho como objetivo, me tornar um desenvolvedor!! 
+- Atuamente trabalho como QA Manual e automação, mas nas horas vagas gosto de aprender conceitos da linguagem de programação e tenho como objetivo, me tornar um engenheiro ou desenvolvedor!! 
 
 </div>
   
